@@ -1,0 +1,12 @@
+#labels Featured
+#Wiki of how to use
+
+= How to Use? =
+
+* First Download and unzip file 
+* put that folder in to the your php directory
+* Open index.php in any text editor
+* find the line called $file="hoekey.ini";
+* Change "hoekey.ini" with your file path i.e. "c:\program files\hoekey\hoekey.ini"
+* Now open the page in the browser
+* Done!!
